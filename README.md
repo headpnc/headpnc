@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @headpnc
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascrpit nad React.js
+- 🌱 I’m currently learning Javascrpit and React.js
 - 💞️ I’m looking to collaborate on original and fun projects.
 - 📫 Reach me here: boskepnc@gmail.com
 
