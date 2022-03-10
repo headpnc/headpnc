@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascrpit and React.js
 - 💞️ I’m looking to collaborate on original and fun projects.
-- 📫 Reach me here: boskepnc@gmail.com
+- 📫 Reach me here:
 
 <!---
 headpnc/headpnc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
